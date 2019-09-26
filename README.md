@@ -16,7 +16,7 @@ all that on Termux
 3. `pkg install git`
 4. `git clone https://github.com/nicoleus/EasY_HaCkc
 5. cd EasY_HaCkc/
-6. `chmod +x install.sh`
+6. `chmod +x installc.sh`
 7. sh installc.sh
 8. Type `EasY-HaCkc`
 
