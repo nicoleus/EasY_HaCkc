@@ -14,10 +14,10 @@ all that on Termux
 1. `pkg update`
 2. `pkg upgrade`
 3. `pkg install git`
-4. `git clone https://github.com/sabri-zaki/EasY_HaCk`
-5. cd EasY_HaCk/
+4. `git clone https://github.com/nicoleus/EasY_HaCkc
+5. cd EasY_HaCkc/
 6. `chmod +x install.sh`
-7. Type `EasY-HaCk`
+7. Type `EasY-HaCkc`
 
 ![](.modules/EasY_HaCk.png)
 
