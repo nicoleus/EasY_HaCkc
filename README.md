@@ -17,7 +17,8 @@ all that on Termux
 4. `git clone https://github.com/nicoleus/EasY_HaCkc
 5. cd EasY_HaCkc/
 6. `chmod +x install.sh`
-7. Type `EasY-HaCkc`
+7. sh installc.sh
+8. Type `EasY-HaCkc`
 
 ![](.modules/EasY_HaCk.png)
 
